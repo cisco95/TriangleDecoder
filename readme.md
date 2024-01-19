@@ -25,3 +25,4 @@ The key to decoding the message is to use the words corresponding to the numbers
 6: computers
 
 and your function should return the string "I love computers".
+#TriangleDecoder
